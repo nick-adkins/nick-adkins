@@ -1,4 +1,4 @@
-# about me
+## about me
 
 <!--
 **nick-adkins/nick-adkins** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
